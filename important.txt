@@ -1,0 +1,8 @@
+open Ancaonda
+then active coda terminal
+then go to project folder
+
+then use this command
+###################
+
+scrapy crawl coupon_code -o courses.csv
